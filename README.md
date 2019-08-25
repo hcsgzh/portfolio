@@ -24,4 +24,4 @@ Experience with OpenID Connect, KeyCloak, HTTPS, LetsEncrypt, OpenSSL
 
 Experience with NodeJs, Restful, SaaS
 
-https://hugh99blog.wordpress.com/2017/08/01/hughs-portfolio/
+[Old portfolio](https://hugh99blog.wordpress.com/2017/08/01/hughs-portfolio/)
